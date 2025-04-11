@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.entreprise</groupId>
-    <artifactId>msnotification</artifactId>
+    <artifactId>msnotif</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>MSNotification</name>
     <description>MSNotification</description>
